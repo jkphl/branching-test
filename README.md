@@ -8,5 +8,6 @@ This is a dummy repository for testing git branching and release strategies.
 * Created a release branch for version 1.0.
 * Adding new features on the development branch
 * Almost ready for next major release ...
+* Again adding new features on the development branch
 
-release 2.0
+develop ?
