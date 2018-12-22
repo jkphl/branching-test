@@ -2,4 +2,7 @@
 
 This is a dummy repository for testing git branching and release strategies.
 
-master 0.1
+* Created a `develop` branch for implementing new features.
+* Add some more lines and made some changes.
+
+develop ?
