@@ -6,5 +6,6 @@ This is a dummy repository for testing git branching and release strategies.
 * Add some more lines and made some changes.
 * The latest commit shouldn't have been merged into master already.
 * Created a release branch for version 1.0.
+* Adding new features on the development branch
 
-release 1.0
+develop ?
