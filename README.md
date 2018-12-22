@@ -7,5 +7,6 @@ This is a dummy repository for testing git branching and release strategies.
 * The latest commit shouldn't have been merged into master already.
 * Created a release branch for version 1.0.
 * Need to add a tiny fix for the 1.x branch
+* A final fix before 1.1 release
 
 support 1.1
