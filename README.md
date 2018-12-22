@@ -9,4 +9,4 @@ This is a dummy repository for testing git branching and release strategies.
 * Adding new features on the development branch
 * Almost ready for next major release ...
 
-develop ?
+release 2.0
